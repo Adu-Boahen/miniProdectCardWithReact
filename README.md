@@ -2,10 +2,10 @@
 # miniProdectCardWithReact
 This is a simple Project Card made with react js.
 # ProjectCardDetails
-name
-age
-role
-online state
-description
-socail media handles
+name,
+age,
+role,
+online state,
+description,
+social media handles,
 
