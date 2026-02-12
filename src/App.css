@@ -89,3 +89,31 @@ span.offline{
   cursor:pointer;
   height: 40px
 }
+/*-------design for mobile---screen-*/
+@media (max-width: 577px){
+.row{
+flex-direction: column;
+  padding:20px 14px;
+}
+.profileCard{
+  width: 90%;
+}
+
+.profileCard .image{
+  width:80%;
+  height: 80px;
+}
+
+.profileCard h1{
+  font-size: 1.3em;
+}
+.profileCard p{
+  font-size: 3em;
+}
+.profileCard h3{
+}
+.socialMedia img{
+  width: 30px;
+  height: 30px
+}
+}
